@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import API from "../utils/api";
+import API from "../utils/API";
 import Results from "../components/Results";
 
 class Saved extends Component {
