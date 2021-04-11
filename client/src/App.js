@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavBar from "./components/Nav";
+import NavBar from "./components/nav";
 import Wrapper from "./components/Wrapper";
 
 

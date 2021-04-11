@@ -1,7 +1,7 @@
 import React from "react";
 import Form from "../components/Form";
 import Results from "../components/Results";
-import API from "../utils/API";
+import API from "../utils/api";
 
 class Search extends React.Component {
     state = {
