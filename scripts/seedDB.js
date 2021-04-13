@@ -5,7 +5,14 @@ const db = require("../models");
 
 mongoose.connect(
     process.env.MONGODB_URI ||
-    "mongodb://localhost/googleboks"
+    "mongodb://localhost/googleboks",
+    {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+        useCreateIndex: true,
+        useFindAndModify: false
+      }
+    
 );
 
 const bookSeed =
