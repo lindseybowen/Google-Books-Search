@@ -1,6 +1,7 @@
 # Google Books Search 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This is a full MERN Stack application where a user can go in and search a book that they like and save their books.
+
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 * [Description](#description)
 * [URL](#url)
