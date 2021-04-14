@@ -11,9 +11,7 @@ This is a full MERN Stack application where a user can go in and search a book t
 * [Questions](#questions)
 ## Description 
 React-based Google Books Search app that allows users to search and save books.
-## URL
-[Click here to see the live site!]()
-![Screenshot Deployed Website]()
+![Screenshot Deployed Website](img/Google-Books)
 ## Installation
 1. Download or clone repository
 2. ```npm install``` to install the required npm packages to run
