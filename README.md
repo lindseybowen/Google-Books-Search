@@ -25,8 +25,8 @@ React-based Google Books Search app that allows users to search and save books.
 * Home page displays the search bar
 * Saved page will show your saved books
 ## Links
-[GitHub!](https://github.com/lindseybowen/Google-Books-Search)
-[Heroku Deployed App!](https://ancient-sands-17398.herokuapp.com/)
+* [GitHub!](https://github.com/lindseybowen/Google-Books-Search)
+* [Heroku Deployed App!](https://ancient-sands-17398.herokuapp.com/)
 ## Questions
 Please contact me below with any questions you have about the application.
 * Github: https://github.com/lindseybowen
